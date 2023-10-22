@@ -1,0 +1,32 @@
+
+<resources>
+    <string name="app_name">Playlist de Música</string>
+    <string name="attention">Precaución</string>
+    <string name="back_button">Atras</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Actualizar</string>
+    <string name="delete_question">Estás seguro de que deseas eliminar esta playlist.</string>
+    <string name="delete_question_edit">Estás seguro de que deseas editar esta playlist.</string>
+    <string name="no_play_description">No tienes ninguna playlist de música.\n☹️☹️☹️\nDale + para añadir.</string>
+    <string name="edit_item_title">Editar Playlist</string>
+    <string name="nombreplay">Nombre</string>
+    <string name="item_detail_title">Detalles de la Playlist</string>
+    <string name="item_entry_title">Añadir Playlist</string>
+    <string name="playlist_name_req">Nombre Playlist*</string>
+    <string name="descripcion_name_req">Descripcion*</string>
+    <string name="genero_name_req">Genero*</string>
+    <string name="numcan_req"># de Canciones*</string>
+    <string name="no">No</string>
+    <string name="generomus">Género</string>
+    <string name="descripcion">Descripción</string>
+    <string name="save_action">Guardar</string>
+    <string name="ver">Ver</string>
+    <string name="yes">Si</string>
+    <string name="required_fields">*Valores requeridos</string>
+    <string name="canmus">Número de canciones</string>
+    <string name="in_stock">%d canciones</string>
+    <string name="genero">Género Musical: %s</string>
+
+
+
+</resources>
